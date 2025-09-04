@@ -1,0 +1,29 @@
+commit ca6c0181387d22a9a7e268e67723abe89927c15c
+Author: Kade <144961986+monyunine@users.noreply.github.com>
+Date:   Thu Sep 4 16:53:22 2025 -0700
+
+    Fixed merge conflict probably
+
+commit dc69bffd7383ea6e1053b63955e3c8b74c75a6d0
+Author: Kade <144961986+monyunine@users.noreply.github.com>
+Date:   Thu Sep 4 16:47:20 2025 -0700
+
+    Added fav food
+
+commit 1ef2a4a68d903f90effa088c6270f0c13a538bd9
+Author: Kade <144961986+monyunine@users.noreply.github.com>
+Date:   Thu Sep 4 16:43:47 2025 -0700
+
+    https://github.com/monyunine/CS3338-second-project.git
+
+commit f4be8275d1b614508a8786b6a0e68bbb4aceb755
+Author: Kade <144961986+monyunine@users.noreply.github.com>
+Date:   Thu Sep 4 16:37:32 2025 -0700
+
+    FILLED IN INFOgit add index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
